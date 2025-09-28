@@ -1,8 +1,8 @@
-# Exercise-02d-Scenes-And-Menus
+# Project-02-2D-Arcade-Space-Shooter
 
-Exercise for MSCH-C220
+Project for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A user-controlled ship for a space-shooter game.
 
 ## Implementation
 
@@ -17,6 +17,13 @@ None
 
 ## Future Development
 None
+
+# List the things you added for points
+I made a background which i feel should be 2 points, 1 for background implimentation, and 1 for making the art myself
+
+I made particles for the small asteroids which should be 1 point
+
+I made a Credits scene which i think should be 2 points, 1 for creating the scene with the text, and 1 for making more buttons across the scenes for scene movement
 
 ## Created by
 Solunarias aka. Micah Wheeler
